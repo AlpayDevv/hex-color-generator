@@ -24,3 +24,6 @@ A simple JavaScript project that generates random hex colors and changes the bac
 
 ### Demo
 ![Demo](hex-code-gif.gif)
+
+## Live Demo
+https://alpaydevv.github.io/hex-color-generator/
