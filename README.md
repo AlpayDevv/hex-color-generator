@@ -2,6 +2,9 @@
 
 # Random Color Generator 🎨
 
+## About
+This project was built to practice DOM manipulation, events, and basic JavaScript logic.
+
 A simple JavaScript project that generates random hex colors and changes the background color of the page.
 
 ## Features
