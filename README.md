@@ -16,3 +16,11 @@ A simple JavaScript project that generates random hex colors and changes the bac
 - HTML
 - CSS
 - JavaScript
+
+## Preview
+
+### Screenshot
+![UI](screenshot.png)
+
+### Demo
+![Demo](hex-code-gif.gif)
